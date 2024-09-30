@@ -1,10 +1,8 @@
 # Revenue-Insights-in-Hospitality-Domain
 
-Due to strategic moves by competitors and ineffective management decisions, AtliQ Grands is losing market share and revenue in the luxury/business hotels category. To counter this, the managing director plans to incorporate "Business and Data Intelligence" to regain their position.
+Problem Statement: Due to strategic moves by competitors and ineffective management decisions, AtliQ Grands is losing market share and revenue in the luxury/business hotels category. To counter this, the managing director plans to incorporate "Business and Data Intelligence" to regain their position.
 
-Objective :
-
-Creating a revenue dashboard for Atliq Grands to provide key insights for company development.
+Objective: Creating a revenue dashboard for Atliq Grands to provide key insights for company development.
 
 Tools used : Power BI and Excel
 
