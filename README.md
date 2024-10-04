@@ -27,9 +27,7 @@ Connected dimension & fact tables by the method of star schema.
 5.Calculated required measures using DAX for analysis
 
 6.Dashboard Development: 
-Power BI Report is created based on the requirements given by stakeholders.
-
-8.Power BI service: Published report in power bi service.
+Power BI Report is created and published in power bi service.
 
 Here is the to Interactive Dashboard 
 - https://app.powerbi.com/view?r=eyJrIjoiOTE2ZDYxOTItMjZjYS00MGFjLTk5ZTUtMTgwM2E2N2ZmYzBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
